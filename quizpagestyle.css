@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #875fc0;
+    height: 100vh;
+    font-family: Roboto;
+}
+
+.top-bar {
+    color: white;
+    font-weight: 700;
+    text-align: right;
+}
+
+.container-whole {
+    padding: 20px;
+}
+
+.top-container {
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.top-heading {
+    font-size: 20px;
+}
+
+.top-para {
+    font-size: 14px;
+}
+
+.question-image {
+    height: 100px;
+}
+
+.bottom-container {
+    margin-top: 20px;
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    height: 55vh;
+    border-radius: 10px;
+}
+
+.option-container {
+    text-align: center;
+    border-radius: 8px;
+    border-width: 1px;
+
+    margin-top: 12px;
+    color: #323f4b;
+    width: 250px;
+}
+
+.submit-button {
+    background-color: #fbaf00;
+    color: #ffffff;
+    padding: 10px;
+    margin-top: 20px;
+    width: 120px;
+    border-radius: 10px;
+}
